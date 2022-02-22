@@ -4,7 +4,6 @@
 - 🌱 Estou atualmente estudando o uso de API.
 - 🎨 Levo o front-end como hobby.
 - 📫 Contate-me pelo email: luanflavio60@gmail.com
-- 😄 Pronomes: ele/dele
 
 <div style="display: flex">
   <div align="center" style="display: inline">
