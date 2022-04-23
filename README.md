@@ -1,25 +1,24 @@
 ### Olá 👋
 
 - 🔭 Atualmente trabalho com back-end.
-- 🌱 Estou atualmente estudando o uso de API.
-- 🎨 Levo o front-end como hobby.
+- 🌱 Gosto muito de estudar técnologias no meio Web.
+- 🎨 Levo o front-end como hobby, tentando evoluir sempre.
 - 📫 Contate-me pelo email: luanflavio60@gmail.com
 
-<div style="display: flex">
-  <div align="center" style="display: inline">
-    <a href="https://github.com/LuanFlavio">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=luanflavio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanflavio&layout=compact&langs_count=7&theme=dark"/>
-  </div>
-  <div style="display: inline_block"><br>
-    <img align="center" alt="Luan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Luan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Luan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Luan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Luan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  </div>
+<div align="center">
+  <a href="https://github.com/LuanFlavio">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=luanflavio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanflavio&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Luan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Luan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Luan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Luan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Luan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Luan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
+ 
  ##
   
 <div> 
