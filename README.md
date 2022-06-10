@@ -1,8 +1,7 @@
 ### Olá 👋
 
-- 🔭 Atualmente trabalho com back-end.
+- 🔭 Atualmente trabalho com frontend.
 - 🌱 Gosto muito de estudar técnologias no meio Web.
-- 🎨 Levo o front-end como hobby, tentando evoluir sempre.
 - 📫 Contate-me pelo email: luanflavio60@gmail.com
 
 ##
